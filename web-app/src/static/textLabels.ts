@@ -22,6 +22,7 @@ export const textLabels = {
     ufPlaceHolder: 'Selecione um estado',
     city: 'Cidade',
     cityPlaceHolder: 'Selecione uma cidade',
-    btn: 'Cadastrar ponto de coleta'
+    btn: 'Cadastrar ponto de coleta',
+    dropzone: 'Imagem do estabelecimento',
   },
 };
