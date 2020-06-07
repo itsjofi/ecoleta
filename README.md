@@ -16,23 +16,22 @@ Ecoleta is a project developed based on international environment week.
 That aims to help people find/or register companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/ecoleta_capa.svg" width="700px" />
+    <img alt="Example" title="Example" src=".github/ecoleta_capa.png" width="700px" />
 </h1>
 
 ## :rocket: Technologies
 
 This project was developed using the following technologies:
 
--<a href="https://nodejs.org/en/" target="_blank">Node.js</a>
--<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>
--<a href="https://reactjs.org/" target="_blank">React JS</a>
--<a href="https://reactnative.dev/" target="_blank">React Native</a>
--<a href=
-" target="_blank">Expo</a>
+-<a href="https://nodejs.org/en/" target="_blank">Node.js</a> </br>
+-<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> </br>
+-<a href="https://reactjs.org/" target="_blank">React JS</a> </br>
+-<a href="https://reactnative.dev/" target="_blank">React Native</a> </br>
+-<a href="https://expo.io/" target="_blank">Expo</a> </br>
 
 ## :information_source: How to Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][https://nodejs.org/en/] + [Yarn][https://yarnpkg.com/] installed on your computer.
     
 ### Install API
 
