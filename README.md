@@ -16,18 +16,19 @@ Ecoleta is a project developed based on international environment week.
 That aims to help people find/or register companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
+    <img alt="Example" title="Example" src=".github/ecoleta_capa.svg" width="700px" />
 </h1>
 
 ## :rocket: Technologies
 
 This project was developed using the following technologies:
 
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [React][reactjs]
-- [React Native][rn]
-- [Expo][expo]
+-<a href="https://nodejs.org/en/" target="_blank">Node.js</a>
+-<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>
+-<a href="https://reactjs.org/" target="_blank">React JS</a>
+-<a href="https://reactnative.dev/" target="_blank">React Native</a>
+-<a href=
+" target="_blank">Expo</a>
 
 ## :information_source: How to Use
 
