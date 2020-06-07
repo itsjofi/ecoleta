@@ -5,11 +5,11 @@
 </h3>
 
 <h3 align="center">
-    :construction: Work in progress... :construction:
+    <img alt="Logo" title="#logo" width="300px" src=".github/ecoleta_capa.png">
     <br><br>
     <br>
 </h3>
-    
+
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
