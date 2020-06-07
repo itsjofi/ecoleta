@@ -23,9 +23,9 @@ This project was developed using the following technologies:
 -<a href="https://reactnative.dev/" target="_blank">React Native</a> </br>
 -<a href="https://expo.io/" target="_blank">Expo</a> </br>
 
-## :information_source: How to Use
+## :information_source: Installation
 
-To clone and run this application, you'll need <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://nodejs.org/en/" target="_blank">Node.js</a> and  installed on your computer.
+To clone and run this application, you'll need <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://nodejs.org/en/" target="_blank">Node.js</a> and <a href="https://yarnpkg.com/" target="_blank">Yarn</a> installed on your computer.
     
 ### Install API
 
