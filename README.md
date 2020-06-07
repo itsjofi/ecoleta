@@ -3,13 +3,7 @@
     <br><br>
     <br>
 </h3>
-    
-<h3 align="center">
-     :recycle: Next Level Week #01 :recycle:
-    <br><br>
-    <br>
-</h3>
-    
+
 ## 💻 Project
 
 Ecoleta is a project developed based on international environment week. 
@@ -31,7 +25,7 @@ This project was developed using the following technologies:
 
 ## :information_source: How to Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][https://nodejs.org/en/] + [Yarn][https://yarnpkg.com/] installed on your computer.
+To clone and run this application, you'll need <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://nodejs.org/en/" target="_blank">Node.js</a> and  installed on your computer.
     
 ### Install API
 
