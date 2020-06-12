@@ -4,7 +4,7 @@
     <br>
 </h3>
 
-## 💻    Project
+## 💻 &nbsp; Project
 
 Ecoleta is a project developed based on international environment week. 
 That aims to help people find/or register companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
