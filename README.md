@@ -4,7 +4,7 @@
     <br>
 </h3>
 
-## 💻 Project
+## 💻&nbspProject
 
 Ecoleta is a project developed based on international environment week. 
 That aims to help people find/or register companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
@@ -13,7 +13,7 @@ That aims to help people find/or register companies that collect specific waste 
     <img alt="Example" title="Example" src=".github/ecoleta_capa.png" width="700px" />
 </h1>
 
-## :rocket: Technologies
+## :rocket:&nbspTechnologies
 
 This project was developed using the following technologies:
 
@@ -23,11 +23,11 @@ This project was developed using the following technologies:
 -<a href="https://reactnative.dev/" target="_blank">React Native</a> </br>
 -<a href="https://expo.io/" target="_blank">Expo</a> </br>
 
-## :information_source: Installation
+## :information_source:&nbspInstallation
 
 To clone and run this application, you'll need <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://nodejs.org/en/" target="_blank">Node.js</a> and <a href="https://yarnpkg.com/" target="_blank">Yarn</a> installed on your computer.
     
-### Install API
+###&nbspInstall API
 
 ```bash
 # Clone this repository
@@ -51,7 +51,7 @@ $ yarn dev
 # running on port 3333
 ```
 
-### Install Web-App
+###&nbspInstall Web-App
 
 ```bash
 # Clone this repository
@@ -87,7 +87,7 @@ $ yarn start
 # Expo will open, just scan the qrcode on terminal or expo page
 
 ```
-## :memo: License
+## :memo:&nbspLicense
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
