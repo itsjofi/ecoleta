@@ -13,7 +13,7 @@ That aims to help people find/or register companies that collect specific waste 
     <img alt="Example" title="Example" src=".github/ecoleta_capa.png" width="700px" />
 </h1>
 
-## :rocket:   Technologies
+## :rocket: &nbsp; Technologies
 
 This project was developed using the following technologies:
 
@@ -23,7 +23,7 @@ This project was developed using the following technologies:
 -<a href="https://reactnative.dev/" target="_blank">React Native</a> </br>
 -<a href="https://expo.io/" target="_blank">Expo</a> </br>
 
-## :information_source:    Installation
+## :information_source: &nbsp; Installation
 
 To clone and run this application, you'll need <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://nodejs.org/en/" target="_blank">Node.js</a> and <a href="https://yarnpkg.com/" target="_blank">Yarn</a> installed on your computer.
     
@@ -87,7 +87,7 @@ $ yarn start
 # Expo will open, just scan the qrcode on terminal or expo page
 
 ```
-## :memo: License
+## :memo: &nbsp; License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
